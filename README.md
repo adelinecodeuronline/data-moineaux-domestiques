@@ -3,6 +3,8 @@
 ## Objectif
 Ce projet analyse les observations de moineaux domestiques dans le territoire de Grand Paris Seine Ouest à partir de données ouvertes (période de mars à mai).
 
+L'intérêt d'une telle analyse est d'aider les territoires à prendre des décisions concernant la végétalisation dans un milieu urbain.
+
 ## Données
 Source : data.gouv.fr et https://data.seineouest.fr/explore/dataset/moineaux-domestiques-mdna/custom/?disjunctive.nb_individus&disjunctive.commune
 
