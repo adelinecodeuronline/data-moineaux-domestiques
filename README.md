@@ -38,6 +38,8 @@ Une application d’observation de biodiversité sans inscription, basée sur la
 Chaque observation génère une "récompense" immédiate avec un message positif.
 Des notifications incitent les observateurs à poursuivre leur contribution en science participative.
 
+![Cover](https://github.com/adelinecodeuronline/data-moineaux-domestiques/blob/main/app%20-%20URBOC.jpg)
+
 ## Valeur ajoutée
 Pour les observateurs : observer la biodiversité en ville, sans effort, et voir immédiatement l’impact de ses observations sur son territoire, sans créer de compte.
 L'objectif est de donner à n'importe quel public l'envie de participer durablement.
